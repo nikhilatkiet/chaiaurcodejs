@@ -12,3 +12,16 @@ console.log(Number(score1)) // N is in capital
 console.log(Boolean(score1))
 // "" gives false
 // "anyvalue" gives true
+//*********************Operations 
+console.log("1"+2);
+console.log(1+"2");
+console.log(1+2+"3"); // agar phle str me hai tp sbko str me convert maar denge nhi to phle operations krleng normally
+console.log("1"+2+3);
+
+console.log(+true); // aage ka + typecasts to number
+console.log(+"");// "" is falese so return 0
+// true+ pe error milega
+let n1,n2,n3
+n1=n2=n3= 2+1
+
+
